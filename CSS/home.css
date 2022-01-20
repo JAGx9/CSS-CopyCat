@@ -1,0 +1,5 @@
+.home {
+  height: 2rem;
+  filter: invert(77%) sepia(1%) saturate(37%) hue-rotate(178deg)
+    brightness(134%) contrast(70%);
+}
